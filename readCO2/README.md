@@ -46,7 +46,7 @@ pip install microfs mpremote
 
 Please refer to [pip python documentation](https://packaging.python.org/tutorials/installing-packages/) for more details on pip and virtual python environment.
 
-SGP30 and TM1637 modules have been copied from [vittascience](https://github.com/vittascience/microbit-libraries), then have been stripped to get rid of out of memory encountered issues.
+[SGP30](https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/9_Gas_Sensors/Datasheets/Sensirion_Gas_Sensors_Datasheet_SGP30.pdf) and TM1637 modules have been copied from [vittascience](https://github.com/vittascience/microbit-libraries), then have been stripped to get rid of out of memory encountered issues.
 
 Connect the [4 digit LCD](https://www.seeedstudio.com/Grove-4-Digit-Display.html) on the P0/P14 Grove shield connector, and [SGP30](https://wiki.seeedstudio.com/Grove-VOC_and_eCO2_Gas_Sensor-SGP30/) on the I2C Grove shield connector.
 
