@@ -2,7 +2,7 @@
 
 First let's clone the source code locally if you are a developer
 ```bash
-git clone git@github.com:xroumegue/microbit.git
+git clone https://github.com/xroumegue/microbit.git
 cd readCO2
 ```
 
